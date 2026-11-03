@@ -1,4 +1,4 @@
-# Fault and Resolution - Pressure in Liquids
+# Issues and Resolution - Pressure in Liquids
 This document is a collection of issues that were found as a result of the study of pressure, pressure gauges, laws of pressure, accuracy and precision of pressure and performance metrics of pressure. 
 
 Medium: Liquid. All of these issues are studied and explained specifically with respect to liquids. The example of a liquid used to help understand these issues is water.
