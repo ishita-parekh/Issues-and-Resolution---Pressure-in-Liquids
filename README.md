@@ -18,7 +18,7 @@ A description of why hydrostatic pressure is not a function of height and what d
 A description of how “Gauge Pressure” is not relative to “Atmospheric Pressure” and why the relation of “Gauge, Atmospheric, & Absolute Pressure” does not hold true. 
 
 ### Issue 5: Pressure is transmittable, Pascal’s Law
-A description of why “Pressure” is not a transmittable quantity which forms the basis of Pascal’s Law and how “P” is unnecessary in “P = F/A”.
+A description of why “Pressure” is not a quantity and thus not transmittable, which forms the basis of Pascal’s Law and how “P” is unnecessary in “P = F/A”.
 
 ### Issue 6: Darcy Weisbach’s Equation of Pressure Loss in Pipes
 A description of why Darcy’s equation of “Pressure losses” due to friction is first based on the wrong understanding of “Friction” and second not calculating any actual water loss in/ from pipes.
