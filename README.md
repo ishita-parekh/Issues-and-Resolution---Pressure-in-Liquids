@@ -3,6 +3,8 @@ This document is a collection of issues that were found as a result of the study
 
 Medium: Liquid. All of these issues are studied and explained specifically with respect to liquids. The example of a liquid used to help understand these issues is water.
 
+Author: Ishita S Parekh.
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Issue 1: Pressure Gauges measure Static Pressure and Gauge Pressure
@@ -24,6 +26,6 @@ A description of why “Pressure” is not a quantity and thus not transmittable
 A description of why Darcy’s equation of “Pressure losses” due to friction is first based on the wrong understanding of “Friction” and second not calculating any actual water loss in/ from pipes.
 
 ### Issue 7: Accuracy and Precision of Pressure Gauges
-A description of why ASME and EN standards of accuracy and precision for “Pressure Gauges” are unnecessary based on what “Gauges” actually measure and why certain design standards for the accuracy of the “Gauges” actually are not driving towards a precise reading of “Static Pressure”.
+A description of why ASME and EN standards of accuracy and precision for “Pressure Gauges” are unnecessary based on what “Gauges” actually measure and why design standards for the “Gauges” for the accurate readings actually are not driving towards a precise reading of “Static Pressure”.
 
 
